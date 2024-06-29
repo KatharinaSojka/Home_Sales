@@ -15,5 +15,5 @@ To evaluate the impact of data partitioning and caching, the query run times wer
     Cached Data: Query run time after caching the table.
     Partitioned Data: Query run time after partitioning the data.
 
-The results clearly demonstrate the benefits of caching and partitioning, with significant reductions in query execution times.
+The results included in the jupyter notebook Home_Sales_colab clearly demonstrate the benefits of caching and partitioning, with significant reductions in query execution times.
 
